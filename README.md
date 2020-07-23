@@ -15,6 +15,8 @@
 [![DOCKER](https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=docker&logoColor=2496ED&color=000)](https://www.docker.com/)
 [![DJANGO](https://img.shields.io/badge/DJANGO-white?style=for-the-badge&logo=django&logoColor=092E20&color=000)](https://www.docker.com/)
 
+<img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
+
 ![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=["stars"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
