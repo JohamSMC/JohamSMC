@@ -1,4 +1,4 @@
-# HEY! :globe_with_meridians:, I'M JOHAM  :boy: :computer: <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="40"> :hearts: :basketball: :leo:
+# HEY! :globe_with_meridians:, I'M JOHAM  :boy: :computer: :hearts: :basketball: :leo:
 
 
 [![LinkeIn User](https://img.shields.io/badge/Linkedin-johamsmc-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/johamsmc/)](https://www.linkedin.com/in/johamsmc/)
@@ -17,7 +17,11 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
 
-![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=["stars"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=["stars"]&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohamSMC&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
