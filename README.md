@@ -17,7 +17,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
 
-![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=stars&show_icons=true&theme=prussian)
+![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=stars&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohamSMC&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
