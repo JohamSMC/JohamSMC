@@ -19,6 +19,6 @@
 
 ![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=stars&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohamSMC&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohamSMC&layout=compact&theme=prussian&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
