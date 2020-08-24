@@ -5,7 +5,7 @@
 [![Twitter User](https://img.shields.io/badge/Twitter-JohamSMC-informational?style=plastic&logo=twitter&link=https://twitter.com/JohamSMC)](https://twitter.com/JohamSMC)
 [![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC)
 
-## SKILLS
+## ***SKILLS***
 [![Python](https://img.shields.io/badge/PYTHON-white?style=for-the-badge&logo=python&logoColor=3776AB&color=000)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=java&logoColor=fff&color=000)](https://www.java.com/es/download/)
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=javascript&logoColor=yellow&color=000)](https://www.w3schools.com/Js/)
@@ -20,5 +20,8 @@
 ![JohamSMC github stats](https://github-readme-stats.vercel.app/api/?username=JohamSMC&hide=stars&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohamSMC&layout=compact&theme=prussian&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+## ***Repositories***
+[![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
