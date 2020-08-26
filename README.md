@@ -23,5 +23,7 @@
 
 ## ***Repositories***
 [![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
+[![Repository MovimientoParabolico](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=MovimientoParabolico&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/MovimientoParabolico)
+
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
