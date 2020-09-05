@@ -25,6 +25,7 @@
 
 ## ***Repositories***
 [![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
+[![Repository Kattis-gitHubActions](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=python-kattis-gitHubActions&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/python-kattis-gitHubActions)
 
 
 [![Repository MovimientoParabolico](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=MovimientoParabolico&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/MovimientoParabolico)
