@@ -27,10 +27,9 @@
 [![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
 [![Repository Kattis-gitHubActions](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=python-kattis-gitHubActions&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/python-kattis-gitHubActions)
 
-
-[![Repository MovimientoParabolico](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=MovimientoParabolico&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/MovimientoParabolico)
+[![Repository technicalTest](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=technicalTest&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/technicalTest)
 [![Repository SimulacionCircuito](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=SimulacionCircuito&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/SimulacionCircuito)
-[![Repository MovimientoTraslacional](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=MovimientoTraslacional&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/MovimientoTraslacional)
+
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
