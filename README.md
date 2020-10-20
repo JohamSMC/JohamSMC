@@ -5,6 +5,11 @@
 [![Twitter User](https://img.shields.io/badge/Twitter-JohamSMC-informational?style=plastic&logo=twitter&link=https://twitter.com/JohamSMC)](https://twitter.com/JohamSMC)
 [![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC)
 
+Hola, mi nombre es Joham Sebastian Medina, soy estudiante de ingeniería de sistemas y computación, apasionado por la tecnología y el autoaprendizaje
+
+Hi, my name is Joham Sebastian Medina, I am a student of systems and computer engineering, passionate about technology and self-learning
+
+
 ## ***SKILLS***
 [<img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>](https://www.python.org/)
 [<img src="https://img.shields.io/badge/DJANGO-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/>](https://www.djangoproject.com/)
