@@ -33,8 +33,7 @@
 [![Repository Kattis-gitHubActions](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=python-kattis-gitHubActions&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/python-kattis-gitHubActions)
 
 [![Repository technicalTest](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=technicalTest&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/technicalTest)
-[![Repository SimulacionCircuito](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=SimulacionCircuito&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/SimulacionCircuito)
-
+[![Repository workShopTogaAndPokedex](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=python-workShopTogaAndPokedex&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/python-workShopTogaAndPokedex)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
