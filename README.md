@@ -32,7 +32,12 @@
 [![Repository Electiva4](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=electiva4&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/electiva4)
 [![Repository Kattis-gitHubActions](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=python-kattis-gitHubActions&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/python-kattis-gitHubActions)
 
+
 [![Repository technicalTest](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=technicalTest&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/technicalTest)
+[![Repository guane-intern-fastapi](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=guane-intern-fastapi&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/guane-intern-fastapi)
+
+
+
 [![Repository workShopTogaAndPokedex](https://github-readme-stats.vercel.app/api/pin/?username=JohamSMC&repo=python-workShopTogaAndPokedex&show_owner=true&theme=ayu-mirage)](https://github.com/JohamSMC/python-workShopTogaAndPokedex)
 
 
