@@ -9,6 +9,7 @@
 
 ***Hi, my name is Joham Sebastian Medina, I am a student of systems and computer engineering, passionate about technology and self-learning***
 
+![Profile views](https://gpvc.arturio.dev/JohamSMC)
 
 ## ***SKILLS***
 [<img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>](https://www.python.org/)
