@@ -5,9 +5,9 @@
 [![Twitter User](https://img.shields.io/badge/Twitter-JohamSMC-informational?style=plastic&logo=twitter&link=https://twitter.com/JohamSMC)](https://twitter.com/JohamSMC)
 [![GitHub User](https://img.shields.io/badge/GitHub-JohamSMC-red?style=plastic&logo=github&link=https://github.com/JohamSMC)](https://github.com/JohamSMC)
 
-***Hola, mi nombre es Joham Sebastian Medina, soy estudiante de ingeniería de sistemas y computación, apasionado por la tecnología y el autoaprendizaje***
+***Hola, mi nombre es Joham Sebastian Medina, soy ingeniero de sistemas y computación, apasionado por la tecnología y el autoaprendizaje***
 
-***Hi, my name is Joham Sebastian Medina, I am a student of systems and computer engineering, passionate about technology and self-learning***
+***Hi, my name is Joham Sebastian Medina, I am a systems and computer engineer, passionate about technology and self-learning***
 
 ![Profile views](https://gpvc.arturio.dev/JohamSMC)
 
