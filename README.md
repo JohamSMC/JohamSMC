@@ -13,6 +13,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/7cb47541-9ea7-455a-b77f-edc854acd00e.svg)](https://wakatime.com/@7cb47541-9ea7-455a-b77f-edc854acd00e)
 
+[![JohamSMC wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohamSMC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## ***SKILLS***
 [<img src="https://img.shields.io/badge/PYTHON-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>](https://www.python.org/)
 [<img src="https://img.shields.io/badge/DJANGO-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/>](https://www.djangoproject.com/)
