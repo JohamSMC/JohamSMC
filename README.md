@@ -13,7 +13,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/7cb47541-9ea7-455a-b77f-edc854acd00e.svg)](https://wakatime.com/@7cb47541-9ea7-455a-b77f-edc854acd00e)
 
-[![JohamSMC wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohamSMC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![JohamSMC wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohamSMC&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
