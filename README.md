@@ -25,6 +25,8 @@
 [<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 [<img src="https://img.shields.io/badge/JAVA-%23c41414.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" alt="JAVA"/>](https://www.oracle.com/co/java/technologies/javase-downloads.html)
 [<img src="https://img.shields.io/badge/SPRING-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="SPRING"/>](https://spring.io/projects/spring-boot)
+[<img src="https://img.shields.io/badge/MONGODB-%47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white" alt="MONGODB"/>](https://www.mongodb.com/)
+[<img src="https://img.shields.io/badge/PostgreSQL-%4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>]()
 [<img src="https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/GITHUB ACTIONS-%23095fcd.svg?&style=for-the-badge&logo=github-actions&logoColor=white" alt="GITHUB-ACTIONS"/>](https://github.com/features/actions)
 [<img src="https://img.shields.io/badge/DOCKER-%2377a7e5.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER"/>](https://www.docker.com/)
