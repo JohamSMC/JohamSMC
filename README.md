@@ -23,10 +23,11 @@
 [<img src="https://img.shields.io/badge/JAVASCRIPT-%23e3c914.svg?&style=for-the-badge&logo=javascript&logoColor=orange" alt="JAVASCRIPT"/>]()
 [<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>](https://developer.mozilla.org/es/docs/Web/HTML)
 [<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>](https://developer.mozilla.org/es/docs/Web/CSS)
-[<img src="https://img.shields.io/badge/JAVA-%23c41414.svg?&style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>](https://www.oracle.com/co/java/technologies/javase-downloads.html)
+[<img src="https://img.shields.io/badge/JAVA-%23c41414.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white" alt="JAVA"/>](https://www.oracle.com/co/java/technologies/javase-downloads.html)
 [<img src="https://img.shields.io/badge/GIT-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/GITHUB ACTIONS-%23095fcd.svg?&style=for-the-badge&logo=github-actions&logoColor=white" alt="GITHUB-ACTIONS"/>](https://github.com/features/actions)
 [<img src="https://img.shields.io/badge/DOCKER-%2377a7e5.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER"/>](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/SPRING-%6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="SPRING"/>](https://spring.io/projects/spring-boot)
 
 
 <img align="right" src="https://user-images.githubusercontent.com/37983099/88250448-46d3ab00-cc6d-11ea-976c-45b1e145347c.png" height="300">
